@@ -85,7 +85,7 @@ Cloud & Tools:   Docker, GitHub Actions, GCP, Azure, Colab, VS Code
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akajiaku1&theme=onedark&no-frame=true&row=1&column=7" />
   <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Akajiaku1&theme=chartreuse-dark" width="30%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Akajiaku1&theme=chartreuse-dark" width="0%" />
 </p>
 
 ---
