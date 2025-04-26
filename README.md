@@ -67,7 +67,7 @@ Cloud & Tools:   Docker, GitHub Actions, GCP, Azure, Colab, VS Code
 ## 📰 Media & Thought Leadership
 
 - 🗞️ *The Guardian Nigeria* – AI for Greenhouse Gas Reduction
-- 🌐 *TechCabal* – AI for Marine Blue Economy and Emissions
+- 🌐 *TechCabal* – AI, geospatial tech way forward to tackling climate change in Africa
 - 🏛️ *NDU Geology Training* – 286+ participants trained on Python, ML, GIS & Deep Learning
 
 ---
@@ -76,7 +76,7 @@ Cloud & Tools:   Docker, GitHub Actions, GCP, Azure, Colab, VS Code
 
 [![GitHub](https://img.shields.io/badge/GitHub-Akajiaku1-black?logo=github&style=flat-square)](https://github.com/Akajiaku1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akajiaku/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:charlesakajiaku@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:akajiakuflowz@gmail.com )
 
 ---
 
