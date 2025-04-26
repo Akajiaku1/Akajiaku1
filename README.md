@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🏢 Working at **Golden Viosam Nig. Ltd** on transformative data solutions for sustainability
 - 📈 Building scalable ML pipelines and climate analytics platforms
 - 🛰️ Skilled in **Python, SQL, Spark, GEE, TensorFlow, QGIS**, and **Cloud Technologies**
-- 📫 Email me: **charlesakajiaku@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/akajiaku/)
+- 📫 Email me: **akajiakuflowz@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/akajiaku/)
 
 ---
 
