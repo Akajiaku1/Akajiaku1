@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+<!--
+**Akajiaku1/Akajiaku1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akajiaku1/Akajiaku1/main/banner.png" alt="Ugochukwu Charles Akajiaku Banner" width="100%" />
 </p>
@@ -25,35 +40,55 @@ Data Science:    Pandas, Scikit-learn, TensorFlow, PyTorch, R
 Data Engineering:Apache Spark, Airflow, BigQuery, PostgreSQL
 Geospatial:      Google Earth Engine, QGIS, ArcGIS
 Cloud & Tools:   Docker, GitHub Actions, GCP, Azure, Colab, VS Code
-📈 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akajiaku1&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akajiaku1&theme=tokyonight" width="48%" /> <br><br> <!-- Monthly Contribution Charts --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akajiaku1&layout=compact&theme=tokyonight&langs_count=8&range=last_30_days" width="60%" alt="Monthly Coding Activity"> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akajiaku1&theme=chartreuse-dark&area=true&hide_border=true" width="100%" alt="Monthly Contribution Graph"> </p>
+```
 
-🌍 Featured Projects
+---
 
-    🌱 GHG Emissions Monitoring – AI models for tracking emissions across Nigeria
+## 📈 GitHub Insights
 
-    💧 Oil Spill Detection via Satellite – NDVI/SAVI-based spatial analysis for Niger Delta
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akajiaku1&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akajiaku1&theme=tokyonight" width="48%" />
+  <br>
+</p>
 
-    🔆 Renewable Energy GIS System – Site selection using ML + geospatial data
+---
 
-    📊 Climate Policy Recommender – NLP-powered dashboard for African governments
+## 🌍 Featured Projects
 
-📰 Media & Thought Leadership
+- 🌱 **GHG Emissions Monitoring** – AI models for tracking emissions across Nigeria
+- 💧 **Oil Spill Detection via Satellite** – NDVI/SAVI-based spatial analysis for Niger Delta
+- 🔆 **Renewable Energy GIS System** – Site selection using ML + geospatial data
+- 📊 **Climate Policy Recommender** – NLP-powered dashboard for African governments
 
-    🗞️ The Guardian Nigeria – AI for Greenhouse Gas Reduction
+---
 
-    🌐 TechCabal – AI, geospatial tech way forward to tackling climate change in Africa
+## 📰 Media & Thought Leadership
 
-    🏛️ NDU Geology Training – 286+ participants trained on Python, ML, GIS & Deep Learning
+- 🗞️ *The Guardian Nigeria* – AI for Greenhouse Gas Reduction
+- 🌐 *TechCabal* – AI, geospatial tech way forward to tackling climate change in Africa
+- 🏛️ *NDU Geology Training* – 286+ participants trained on Python, ML, GIS & Deep Learning
 
-📫 Connect With Me
+---
 
-https://img.shields.io/badge/GitHub-Akajiaku1-black?logo=github&style=flat-square
-https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white
-https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white
-🏆 GitHub Badges & Contribution
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Akajiaku1&theme=onedark&no-frame=true&row=1&column=7" /> </p>
-✨ Quote to Live By
+## 📫 Connect With Me
 
-    "Big data, when paired with climate insight, has the power to change the future of nations."
+[![GitHub](https://img.shields.io/badge/GitHub-Akajiaku1-black?logo=github&style=flat-square)](https://github.com/Akajiaku1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akajiaku/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:akajiakuflowz@gmail.com )
 
+---
+
+## 🏆 GitHub Badges & Contribution 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akajiaku1&theme=onedark&no-frame=true&row=1&column=7" />
+  <br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Akajiaku1&theme=chartreuse-dark" width="0%" />
+</p>
+
+---
+
+## ✨ Quote to Live By
+
+> *"Big data, when paired with climate insight, has the power to change the future of nations."*
