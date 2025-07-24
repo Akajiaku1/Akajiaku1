@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💡 Passionate about **AI for Climate Action**, **Big Data Engineering**, and **Geo-Spatial Intelligence**
+- 💡 Passionate about **AI/ML for Climate Action**, **Big Data Engineering**, and **Geo-Spatial Intelligence**
 - 🏢 Working at **Golden Viosam Nig. Ltd** on transformative data solutions for sustainability
 - 📈 Building scalable ML pipelines and climate analytics platforms
 - 🛰️ Skilled in **Python, SQL, Spark, GEE, TensorFlow, QGIS**, and **Cloud Technologies**
