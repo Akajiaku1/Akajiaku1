@@ -19,15 +19,15 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Akajiaku1/Akajiaku1/main/banner.png" alt="Ugochukwu Charles Akajiaku Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Ugochukwu Charles Akajiaku
+# 👋 Hi, I'm Ugochukwu Charles Akajiaku  
 ### 🚀 Data Scientist | 🛠️ Data Engineer | 🌍 Climate Tech Expert @ Golden Viosam Nig. Ltd
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💡 Passionate about **AI/ML for Climate Action**, **Big Data Engineering**, and **Geo-Spatial Intelligence**
-- 🏢 Working at **Golden Viosam Nig. Ltd** on transformative data solutions for sustainability
-- 📈 Building scalable ML pipelines and climate analytics platforms
-- 🛰️ Skilled in **Python, SQL, Spark, GEE, TensorFlow, QGIS**, and **Cloud Technologies**
+- 💡 Passionate about **AI/ML for Climate Action**, **Big Data Engineering**, and **Geo-Spatial Intelligence**  
+- 🏢 Working at **Golden Viosam Nig. Ltd** on transformative data solutions for sustainability  
+- 📈 Building scalable ML pipelines and climate analytics platforms  
+- 🛰️ Skilled in **Python, SQL, Spark, GEE, TensorFlow, QGIS**, and **Cloud Technologies**  
 - 📫 Email me: **akajiakuflowz@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/akajiaku/)
 
 ---
@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 ## 🧰 Tech Toolbox
 
 ```text
-Languages:       Python, SQL, JavaScript, Bash
-Data Science:    Pandas, Scikit-learn, TensorFlow, PyTorch, R
-Data Engineering:Apache Spark, Airflow, BigQuery, PostgreSQL
-Geospatial:      Google Earth Engine, QGIS, ArcGIS
+Languages:       Python, SQL, JavaScript, Bash  
+Data Science:    Pandas, Scikit-learn, TensorFlow, PyTorch, R  
+Data Engineering:Apache Spark, Airflow, BigQuery, PostgreSQL  
+Geospatial:      Google Earth Engine, QGIS, ArcGIS  
 Cloud & Tools:   Docker, GitHub Actions, GCP, Azure, Colab, VS Code
 ```
 
