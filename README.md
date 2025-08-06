@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akajiaku1/Akajiaku1/main/banner.png" alt="Ugochukwu Charles Akajiaku Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Akajiaku1/Akajiaku1/main/banner.png" alt="Otutu Anslem Onyebuchi Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Ugochukwu Charles Akajiaku  
