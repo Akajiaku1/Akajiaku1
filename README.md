@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Akajiaku1/Akajiaku1/main/banner.png" alt="Otutu Anslem Onyebuchi Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Ugochukwu Charles Akajiaku  
+# 👋 Hi, I'm Otutu Anslem Onyebuchi  
 ### 🚀 Data Scientist | 🛠️ Data Engineer | 🌍 Climate Tech Expert @ Golden Viosam Nig. Ltd
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
